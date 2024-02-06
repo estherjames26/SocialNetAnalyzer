@@ -6,3 +6,4 @@ The program runs iteratively, allowing users to input different files or 'n' to 
 The readme provides clear instructions on running the application, highlights the dependency on the numpy library, 
 and encourages users to explore and enhance the functionality of the Social Network Analyzer.
 This code showcases the usage of OOP programming and reading from files.
+The files included are example files that are used for the code.
